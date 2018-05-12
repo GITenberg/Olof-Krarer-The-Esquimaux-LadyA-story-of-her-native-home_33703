@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '36549'
     url: http://www.gutenberg.org/2009/agents/36549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33703#Olof-Krarer-The-Esquimaux-LadyA-story-of-her-native-home
 gutenberg_issued: '2010-09-11'
 gutenberg_type: Text
 identifiers:
