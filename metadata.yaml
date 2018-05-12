@@ -1,0 +1,38 @@
+_repo: Olof-Krarer-The-Esquimaux-LadyA-story-of-her-native-home_33703
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33703-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Krarer, Olof
+    aliases:
+    - Ólöf Sölvadóttir
+    - Olof Solvadottir
+    birthdate: 1858
+    deathdate: 1935
+    gutenberg_agent_id: '36548'
+    url: http://www.gutenberg.org/2009/agents/36548
+  editor:
+    agent_name: Post, Albert S.
+    gutenberg_agent_id: '36549'
+    url: http://www.gutenberg.org/2009/agents/36549
+description: ''
+gutenberg_issued: '2010-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33703'
+  lccn: '11026857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lecturers -- United States -- Biography'
+- !lcsh 'Dwarfs -- United States -- Biography'
+- !lcc 'E011'
+- !lcsh 'Icelanders -- United States -- Biography'
+- !lcsh 'Eskimos -- Biography'
+- !lcsh 'Krarer, Olof, 1858-1935'
+title: 'Olof Krarer, the Esquimaux Lady: A Story of Her Native Home'
+url: http://www.gutenberg.org/ebooks/33703
